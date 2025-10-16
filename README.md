@@ -19,6 +19,10 @@
 Python, Dash, Plotly
 
 ## Результат
+![Photo 1](Images/page_1.jpg)
+![Photo 2](Images/page_2.jpg)
+![Photo 3](Images/dropdown_1.jpg)
+![Photo 4](Images/dropdown_2.jpg)
 
 
 
